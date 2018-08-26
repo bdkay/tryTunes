@@ -1,3 +1,3 @@
-#musicMaster
+#tryTunes
 
-This React application handles web requests through the Spotify API. 
+The latest in struggle apps.
